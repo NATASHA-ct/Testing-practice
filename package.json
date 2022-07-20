@@ -1,0 +1,22 @@
+{
+  "name": "testing-practice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --coverage"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aneallaryea100/TESTING-PRACTICE.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aneallaryea100/TESTING-PRACTICE/issues"
+  },
+  "homepage": "https://github.com/aneallaryea100/TESTING-PRACTICE#readme",
+  "devDependencies": {
+    "jest": "^28.1.3"
+  }
+}

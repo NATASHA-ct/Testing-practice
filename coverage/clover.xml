@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1658340537188" clover="3.2.0">
+  <project timestamp="1658340537188" name="All files">
+    <metrics statements="19" coveredstatements="19" conditionals="4" coveredconditionals="4" methods="7" coveredmethods="7" elements="30" coveredelements="30" complexity="0" loc="19" ncloc="19" packages="1" files="4" classes="4"/>
+    <file name="TASK1.js" path="C:\Users\User\Desktop\MICROVERSE\Module2\WEEK 3\Testing-practice\TASK1.js">
+      <metrics statements="6" coveredstatements="6" conditionals="4" coveredconditionals="4" methods="1" coveredmethods="1"/>
+      <line num="1" count="1" type="stmt"/>
+      <line num="2" count="3" type="stmt"/>
+      <line num="3" count="3" type="cond" truecount="4" falsecount="0"/>
+      <line num="4" count="1" type="stmt"/>
+      <line num="6" count="2" type="stmt"/>
+      <line num="10" count="1" type="stmt"/>
+    </file>
+    <file name="TASK2.js" path="C:\Users\User\Desktop\MICROVERSE\Module2\WEEK 3\Testing-practice\TASK2.js">
+      <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <line num="2" count="1" type="stmt"/>
+      <line num="5" count="1" type="stmt"/>
+    </file>
+    <file name="TASK3.js" path="C:\Users\User\Desktop\MICROVERSE\Module2\WEEK 3\Testing-practice\TASK3.js">
+      <metrics statements="6" coveredstatements="6" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <line num="1" count="1" type="stmt"/>
+      <line num="2" count="1" type="stmt"/>
+      <line num="3" count="1" type="stmt"/>
+      <line num="4" count="1" type="stmt"/>
+      <line num="5" count="1" type="stmt"/>
+      <line num="8" count="1" type="stmt"/>
+    </file>
+    <file name="TASK4.js" path="C:\Users\User\Desktop\MICROVERSE\Module2\WEEK 3\Testing-practice\TASK4.js">
+      <metrics statements="5" coveredstatements="5" conditionals="0" coveredconditionals="0" methods="4" coveredmethods="4"/>
+      <line num="5" count="1" type="stmt"/>
+      <line num="10" count="1" type="stmt"/>
+      <line num="15" count="1" type="stmt"/>
+      <line num="20" count="1" type="stmt"/>
+      <line num="24" count="1" type="stmt"/>
+    </file>
+  </project>
+</coverage>
