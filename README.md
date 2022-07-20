@@ -1,6 +1,6 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-##Testing-practice
+### Testing-practice
 
 
 > This is a project with practical tests for JavaScript functions using the Jest library. It contains 4 different algorithms that will be tested using Jest.
